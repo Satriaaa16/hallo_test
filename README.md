@@ -1,0 +1,1 @@
+settup my ubuntu
